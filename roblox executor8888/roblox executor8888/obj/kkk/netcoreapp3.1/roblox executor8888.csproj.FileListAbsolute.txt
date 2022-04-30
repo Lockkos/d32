@@ -1,0 +1,8 @@
+C:\Users\xxx\source\repos\roblox executor8888\roblox executor8888\obj\kkk\netcoreapp3.1\roblox executor8888.csproj.AssemblyReference.cache
+C:\Users\xxx\source\repos\roblox executor8888\roblox executor8888\obj\kkk\netcoreapp3.1\roblox_executor8888.Form1.resources
+C:\Users\xxx\source\repos\roblox executor8888\roblox executor8888\obj\kkk\netcoreapp3.1\roblox_executor8888.Properties.Resources.resources
+C:\Users\xxx\source\repos\roblox executor8888\roblox executor8888\obj\kkk\netcoreapp3.1\roblox executor8888.csproj.GenerateResource.cache
+C:\Users\xxx\source\repos\roblox executor8888\roblox executor8888\obj\kkk\netcoreapp3.1\roblox executor8888.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\source\repos\roblox executor8888\roblox executor8888\obj\kkk\netcoreapp3.1\roblox executor8888.AssemblyInfoInputs.cache
+C:\Users\xxx\source\repos\roblox executor8888\roblox executor8888\obj\kkk\netcoreapp3.1\roblox executor8888.AssemblyInfo.cs
+C:\Users\xxx\source\repos\roblox executor8888\roblox executor8888\obj\kkk\netcoreapp3.1\roblox executor8888.csproj.CoreCompileInputs.cache

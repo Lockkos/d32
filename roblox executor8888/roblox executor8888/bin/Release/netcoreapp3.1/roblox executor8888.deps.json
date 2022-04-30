@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "roblox executor8888/1.0.0": {
+        "runtime": {
+          "roblox executor8888.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "roblox executor8888/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
